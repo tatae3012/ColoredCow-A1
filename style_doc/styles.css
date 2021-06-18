@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(163, 200, 235);
+  }
+
+h1 {
+	font-size: 300%;
+	color: #000000;
+}
+
+.center {
+    text-align: center;
+	padding: 15px;
+    background-color: #ffffff;
+    width: 50%;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
